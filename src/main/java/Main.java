@@ -15,8 +15,8 @@ public class Main {
             while (!fin){
                 Scanner scanner = new Scanner(System.in);
                 System.out.println("Seleccione una opcion:\n"
-                        + "1. Suma\n"
-                        + "2. Resta\n"
+                        + "1. Sumar\n"
+                        + "2. Restar\n"
                         + "3. Multiplicar\n"
                         + "4. Salir\n");
                 int op = scanner.nextInt();
