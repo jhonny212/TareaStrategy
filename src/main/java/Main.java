@@ -14,7 +14,7 @@ public class Main {
             boolean fin = false;
             while (!fin){
                 Scanner scanner = new Scanner(System.in);
-                System.out.println("Eliga entre las siguientes operaciones:\n"
+                System.out.println("Seleccione una opcion:\n"
                         + "1. Suma\n"
                         + "2. Resta\n"
                         + "3. Multiplicar\n"
